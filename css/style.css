@@ -823,7 +823,7 @@ li {
 .back__top{
     width: 40px;
     height: 40px;
-     background-color: rgb(46,33,36);;
+    background-color:rgb(46,33,36) ;
     display: inline-block;
     border-radius: 50%;
     color: white;
